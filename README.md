@@ -14,13 +14,6 @@ An in-depth paragraph about your project and overview of use.
 * ex. Windows 10
 * Laravel
 
-
-## Authors
-
-Contributors names and contact info
-
-ex. Rey Reyes  
-
 ## Version History
 
 * 0.1
