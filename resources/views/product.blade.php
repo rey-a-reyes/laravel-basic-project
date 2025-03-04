@@ -10,7 +10,7 @@
 </head>
 
 <body class="flex justify-center mt-10 bg-gray-200">
-    <div class="w-full max-w-2xl bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4">
+    <div class="w-full max-w-5xl bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4">
 
     <h1 class="text-5xl mb-10"> Product List </h1>
     <table class="border-separate border-spacing-3 border border-gray-400 bg-white mb-4">
